@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+   background: #020024;
+   background: linear-gradient(297deg, #020024 0%, #090979 50%, #00d4ff 100%);
+}
+
+header {
+    background-color: #090979;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+footer {
+    background-color: #090979;
+    padding: 0.5px;
+    text-align: center;
+    font-size: 15px;
+}
+
+nav {
+    background-color: #3a3dd8;
+    padding: 10px;
+    text-align: center;
+    text-decoration-color: #000000;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+p.intro, p.conclusao, p.referencias, p.principais-fatores, p.oauth, p.xss, p.beneficios {
+    color: #010a67;
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 20px;
+}
+
+a.nav-link {
+    display: inline-block;
+    margin: 0 10px;
+    color: #000a76;
+    font-weight: bold;
+}
+
+h1, ul {
+    color: #000000;
+}
+
+h2 {
+    color: #000000;
+    text-align: center;
+    font-size: 24px;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    all: center;
+}
+
+#intro, #conclusao, #referencias, #principais-fatores, #oauth, #xss, #beneficios {
+    background-color: #4f8ace;
+    border-radius: 10px;
+}
