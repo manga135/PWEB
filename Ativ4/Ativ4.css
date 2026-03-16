@@ -1,0 +1,17 @@
+body{
+    font-family: "Segos UI", Tahoma;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0 auto;
+}
+
+.dublador {
+    float: right;
+}
+
+.personagens{
+    margin: 0 auto;
+}
